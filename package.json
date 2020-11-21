@@ -1,0 +1,43 @@
+{
+  "name": "nuxt-gradof",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.31",
+    "@fortawesome/free-regular-svg-icons": "^5.15.0",
+    "@fortawesome/vue-fontawesome": "^2.0.0",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/pwa": "^3.0.2",
+    "child_process": "^1.0.2",
+    "core-js": "^3.6.5",
+    "fs": "0.0.1-security",
+    "module": "^1.2.5",
+    "moment": "^2.29.0",
+    "mysql": "^2.18.1",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.14.5",
+    "nuxt-fontawesome": "^0.4.0",
+    "tippy.js": "^6.2.6",
+    "vuesax": "^4.0.1-alpha.25"
+  },
+  "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.1",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^10.0.2"
+  }
+}
